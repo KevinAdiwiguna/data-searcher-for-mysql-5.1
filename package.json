@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "const": "^1.0.0",
+    "inquirer": "^9.2.11",
+    "mysql2": "^3.6.1"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
